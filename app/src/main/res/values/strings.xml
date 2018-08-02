@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Grand Hotel!</string>
+    <string name="slide_1_desc">The easiest way to book hotel!</string>
+
+    <string name="slide_2_title">Get Refreshed</string>
+    <string name="slide_2_desc">Relax and get some therapy</string>
+
+    <string name="slide_3_title">Enjoy the Great Food </string>
+    <string name="slide_3_desc">Your food is freshly cooked</string>
+
+    <string name="slide_4_title">Have a Great Sleep</string>
+    <string name="slide_4_desc">Ac rooms with comfortable bed</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
